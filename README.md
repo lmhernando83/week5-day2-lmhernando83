@@ -23,7 +23,7 @@ La documentacion se puede ver en [Array](https://developer.mozilla.org/es/docs/W
 
 1. **Ejercicio** Buscar el primer elemento mayor que 4 en el siguiente array
 
-    `const numberArrays = [1, 2, 3, 4, 5];` 
+    `const numberArrays = [1, 2, 3, 4, 5];` **Ejercicio** Contar el numero de elementos que son string en el siguiente array **(reduce)**:
 
 1. **Ejercicio** Buscar el primer elemento que empieze por eva en el array 
 
@@ -33,7 +33,7 @@ La documentacion se puede ver en [Array](https://developer.mozilla.org/es/docs/W
 
     `const miArray = ['pepe', 2, 'evaristo', 4, 'eva'];`
 
-1. **Ejercicio** Contar el numero de elementos que son string en el siguiente array **(reduce)**:
+1. 
 
     `const miArray = ['pepe', 2, 'evaristo', 4, 'eva'];`
 
